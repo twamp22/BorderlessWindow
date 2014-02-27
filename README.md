@@ -23,3 +23,9 @@ Loadout
 This script looks for a window named exactly "Loadout", resizes it and removes the border.
 MAKE SURE YOU DO NOT HAVE ANY OTHER WINDOWS/FOLDERS OPEN WITH THE SAME NAME!
 https://github.com/twamp22/BorderlessWindow/tree/master/Loadout
+
+Contact Me
+----------
+You can contact me via email or online at my community's site.
+mailto://Twamp@3xA-Gaming.net
+http://www.3xA-Gaming.net
