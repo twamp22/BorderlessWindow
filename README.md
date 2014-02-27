@@ -10,22 +10,26 @@ Arma 2 OA
 ---------
 This script looks for a window title that contains "Arma 2 OA", resizes it and removes the border.
 MAKE SURE YOU DO NOT HAVE ANY OTHER WINDOWS/FOLDERS OPEN WITH "Arma 2 OA" IN THE NAME!
+
 https://github.com/twamp22/BorderlessWindow/tree/master/Arma%202%20OA
 
 DayZ
 ----
 This script looks for a window named "DayZ.exe", resizes it and removes the border.
 MAKE SURE YOU DO NOT HAVE ANY OTHER WINDOWS/FOLDERS OPEN WITH "DayZ.exe" IN THE NAME!
+
 https://github.com/twamp22/BorderlessWindow/tree/master/DayZ
 
 Loadout
 -------
 This script looks for a window named exactly "Loadout", resizes it and removes the border.
 MAKE SURE YOU DO NOT HAVE ANY OTHER WINDOWS/FOLDERS OPEN WITH THE SAME NAME!
+
 https://github.com/twamp22/BorderlessWindow/tree/master/Loadout
 
 Contact Me
 ----------
 You can contact me via email or online at my community's site.
-mailto://Twamp@3xA-Gaming.net
+
+Twamp@3xA-Gaming.net
 http://www.3xA-Gaming.net
